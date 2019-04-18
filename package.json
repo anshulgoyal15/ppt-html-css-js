@@ -1,0 +1,14 @@
+{
+  "name": "ppt",
+  "version": "1.0.0",
+  "description": "Html stands for Hyper text markup language.Html provides structure to our website.",
+  "main": "remark.js",
+  "scripts": {
+    "start": "serve .  -l \"$PORT\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
